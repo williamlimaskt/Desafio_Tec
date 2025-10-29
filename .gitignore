@@ -1,0 +1,35 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment
+.env
+.env.*
+
+# Editor/OS
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+Desktop.ini
+
+# Logs
+logs/
+*.log
+report-*.json
+
+# Project data and reports
+data/*.sqlite
+reports/*.json
+
+# Cache
+.cache/
+.parcel-cache/
+dist/
+build/
+
+
